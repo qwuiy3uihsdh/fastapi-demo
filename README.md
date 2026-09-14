@@ -1,2 +1,2 @@
-# fastapi-postgresql-demo
-fastapi-postgresql-demo
+# fastapi-demo
+fastapi-demo
