@@ -24,6 +24,8 @@ class UserBrief(BaseModel):
     email: EmailStr
     created_at: datetime
 
+
+
 class UserInfoOut(BaseModel):
     id: int
     username: str
